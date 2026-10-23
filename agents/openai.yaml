@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目完成归档"
+  short_description: "确认项目完成后整理本地归档、可复用资料及跨电脑接手包，并核验飞书同步状态"
+  default_prompt: "请使用 $project-completion-archive，先核实我对项目完成的确认，再整理本地归档并检查飞书同步条件。"

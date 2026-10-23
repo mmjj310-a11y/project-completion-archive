@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+.env
+.env.*
+!.env.example
+sync-state.json
+06-同步记录.md
